@@ -1,0 +1,12 @@
+[  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "eggs",
+      "pancetta",
+      "pecorino cheese"
+    ],
+    "cookingTime": 20
+  }
+]
